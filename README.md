@@ -26,6 +26,8 @@ This is a personal project created to practice front-end development and UI/UX d
 - 🎨 Clean, modern, responsive UI design  
 - 🌓 Dark/light theme ready (optional for expansion)
 
+  Modern UI 
+
 ## 🚀 Getting Started (Development)
 
 To run the app locally:
