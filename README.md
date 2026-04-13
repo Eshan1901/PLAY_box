@@ -24,7 +24,7 @@ This is a personal project created to practice front-end development and UI/UX d
 - 🔍 Filter or sort by game type  
 - 💾 Add games to “Your Library”  
 - 🎨 Clean, modern, responsive UI design  
-- 🌓 Dark/light theme ready (optional for expansion)
+- 🌓 Dark/light theme ready
 
   Modern UI 
 
