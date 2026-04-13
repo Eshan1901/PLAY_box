@@ -1,4 +1,4 @@
-# 🎮 Playbox – A Subscription-Based Gaming Platform
+# 🎮 Playbox :- A Subscription-Based Gaming Platform
 
 **Playbox** is a web application inspired by platforms like **Steam** and **Spotify**, offering a seamless experience for users to **explore, subscribe, and play** a curated selection of games. Built with a modern tech stack and intuitive UI, it simulates a real-world digital game library system.
 
