@@ -30,6 +30,9 @@ This is a personal project created to practice front-end development and UI/UX d
 
 To run the app locally:
 
+
+
+
 ```bash
 git clone https://github.com/eshan1901/Playbox.git
 cd Playbox
